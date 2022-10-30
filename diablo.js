@@ -220,11 +220,11 @@ messageId: ""
 
 switch (command) {
 
-case 'vipmenu':
+case 'menu':
 let uptime = await runtime(process.uptime())
 jiren = ` 
 亗╭┬─────────────────┈ 
-亗├ 「 PREMIUM BOT 」
+亗├ 「 CYBER VIP PREMIUM 」
 亗├──────────────────┈
 亗├ • ${prefix}bug1 (62xxx)
 亗├ • ${prefix}bug2 (62xxx)
@@ -240,7 +240,7 @@ jiren = `
 亗├ 62XXX ITU PASTE NO KORBAN
 亗├ contoh : bug1 62826578172
 亗├──────────────────┈
-亗├ 「 CYBERPUNKVIP 」
+亗├ 「 PREMIUM VIP 」
 亗├──────────────────┈
 亗├ • Mau order chat admin
 亗├──────────────────┈
